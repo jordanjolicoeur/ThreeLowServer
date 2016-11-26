@@ -1,5 +1,4 @@
 .DS_Store
 *.DS_Store
-server/node_modules/
+node_modules/
 npm-debug.log
-server/npm-debug.log
